@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin_cs.php
+Disallow: /data_user.php
+Disallow: /ujian_admin.php
+Disallow: /hafalan_admin.php
+Disallow: /tugas_admin.php
+Disallow: /kotoba_admin.php
+Disallow: /admin_tata_bahasa.php
+Disallow: /admin_membaca.php
+Disallow: /tambah_anggota.php
+Disallow: /config.php
+Allow: /
+
+Sitemap: https://sakura-app.site.je/sitemap.xml
